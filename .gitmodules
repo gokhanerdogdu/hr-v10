@@ -2,3 +2,8 @@
 	path = OCA/hr
 	url = git@github.com:OCA/hr.git
 	branch = 10.0
+
+[submodule "onesteinbv/addons-onestein"]
+	path = onesteinbv/addons-onestein
+	url = git@github.com:onesteinbv/addons-onestein.git
+	branch = 10.0
