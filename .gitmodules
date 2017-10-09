@@ -7,3 +7,8 @@
 	path = onesteinbv/addons-onestein
 	url = git@github.com:onesteinbv/addons-onestein.git
 	branch = 10.0
+
+[submodule "hmrodrigues/odoo-apps"]
+	path = hmrodrigues/odoo-apps
+	url = git@github.com:hmrodrigues/odoo-apps.git
+	branch = 10.0
