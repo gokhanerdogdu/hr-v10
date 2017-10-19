@@ -17,3 +17,8 @@
 	path = OCA/social
 	url = git@github.com:OCA/social.git
 	branch = 10.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 9.0
