@@ -7,3 +7,8 @@
 	path = onesteinbv/addons-onestein
 	url = git@github.com:onesteinbv/addons-onestein.git
 	branch = 10.0
+
+[submodule "vieterp/vieterp-mailbox"]
+	path = vieterp/vieterp-mailbox
+	url = git@github.com:vieterp/vieterp-mailbox.git
+	branch = 10.0
